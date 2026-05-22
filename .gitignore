@@ -1,0 +1,27 @@
+# Perfis do Chrome (dados pessoais/sessão)
+chrome_debug_profile/
+chrome_profile/
+chrome_profile_cdp/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Planilhas com dados sensíveis
+anuncios_excluir_v1.xlsx
+anuncios_excluir_v1_RESULTADO.xlsx
+MELI COM URGENCIA.xlsx
+
+# Logs com dados de execução
+log_exclusoes.txt
+logs_anuncios_excluir_v1.txt
+logs_automacao.txt
+
+# Arquivos de sessão/autenticação
+auth.json
+cookies.json
+
+# Scripts de diagnóstico/teste temporários
+diagnostico_dropdown.py
+teste_exclusao.py
